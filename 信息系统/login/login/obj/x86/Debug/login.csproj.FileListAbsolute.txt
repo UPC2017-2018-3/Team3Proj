@@ -1,0 +1,7 @@
+D:\VS\信息系统\login\login\bin\Debug\login.exe
+D:\VS\信息系统\login\login\bin\Debug\login.pdb
+D:\VS\信息系统\login\login\obj\x86\Debug\login.Form1.resources
+D:\VS\信息系统\login\login\obj\x86\Debug\login.Properties.Resources.resources
+D:\VS\信息系统\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+D:\VS\信息系统\login\login\obj\x86\Debug\login.exe
+D:\VS\信息系统\login\login\obj\x86\Debug\login.pdb
